@@ -1,0 +1,22 @@
+#main_title{
+    text-align: center;
+    background-color: antiquewhite;
+    color: black;
+    padding: 20px;
+    font-weight:5;
+}
+.box1 button{
+    float: right;
+    margin: 15px;
+}
+.container{
+    margin-top:50px;
+}
+
+#logout{
+    display: flex;
+    justify-content: center;
+    width: 10vh;
+     align-items: center; 
+
+}

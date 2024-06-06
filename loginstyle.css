@@ -1,0 +1,32 @@
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background-color:antiquewhite;
+}
+
+.container {
+    
+    margin: 0 auto;
+    padding: 20px;
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    background-color: #ffffff; /* Ensures the form has a white background */
+    border-radius: 8px; /* Adds slightly rounded corners */
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.form-btn {
+    display: flex;
+    justify-content: center;
+}
+.signin/signup{
+    display: flex;
+    justify-content: center;
+    
+}
